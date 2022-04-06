@@ -1,0 +1,2 @@
+# Project---Seneca-College
+Hi, this is my project that I have done in seneca college. First we were divided into several groups and each consists of upto 4 members. There were four different modules like fundamentals, tokenizing, conversion and manipulating. I did the tokenizing section. Inside it I need to design the code in order to tokenized any sentence. I made the code to run it and it works without any errors at the end. 
