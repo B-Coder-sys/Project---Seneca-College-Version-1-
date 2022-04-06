@@ -1,0 +1,38 @@
+*** Start of Tokenizing Words Demo ***
+Type a few words seperated by space(q - to quit):
+I am a good programmer
+Word #1 is 'I'
+Word #2 is 'am'
+Word #3 is 'a'
+Word #4 is 'good'
+Word #5 is 'programmer'
+Type a few words seperated by space(q - to quit):
+I love to do coding
+Word #1 is 'I'
+Word #2 is 'love'
+Word #3 is 'to'
+Word #4 is 'do'
+Word #5 is 'coding'
+Type a few words seperated by space(q - to quit):
+My favorite professor is Ziad Diab 
+Word #1 is 'My'
+Word #2 is 'favorite'
+Word #3 is 'professor'
+Word #4 is 'is'
+Word #5 is 'Ziad'
+Word #6 is 'Diab'
+Type a few words seperated by space(q - to quit):
+Ziad is a talented professor
+Word #1 is 'Ziad'
+Word #2 is 'is'
+Word #3 is 'a'
+Word #4 is 'talented'
+Word #5 is 'professor'
+Type a few words seperated by space(q - to quit):
+My favorite subject is CPR101
+Word #1 is 'My'
+Word #2 is 'favorite'
+Word #3 is 'subject'
+Word #4 is 'is'
+Word #5 is 'CPR101'
+Type a few words seperated by space(q - to quit):
